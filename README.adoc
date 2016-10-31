@@ -1,0 +1,6 @@
+==== spring-data-elastic-test
+Execute tests with
+[source,bash]
+----
+mvn test
+----
